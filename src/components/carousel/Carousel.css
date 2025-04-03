@@ -1,0 +1,11 @@
+/* Hide scrollbar for Chrome, Safari, and Edge */
+.hs-carousel::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for Firefox */
+  .hs-carousel {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  
